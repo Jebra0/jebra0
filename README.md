@@ -16,62 +16,25 @@ I firmly believe in making the most of my time through organization and creativi
 
 <div>
  <p>My Skills </p>
-
-  <div style="display: flex; flex-wrap: wrap; justify-content: center;">
-    <div style="text-align: center; margin: 10px;">
-      <h5>HTML</h5>
-      <h5>CSS</h5>
-      <h5>JavaScript</h5>
-      <h5>Bootstrap</h5>
-    </div>
-    <div style="text-align: center; margin: 10px;">
-      <h5>HTML</h5>
-      <h5>CSS</h5>
-      <h5>JavaScript</h5>
-      <h5>Bootstrap</h5>
-    </div>
-    <div style="text-align: center; margin: 10px;">
-      <h5>HTML</h5>
-      <h5>CSS</h5>
-      <h5>JavaScript</h5>
-      <h5>Bootstrap</h5>
-    </div>
-  </div>
-  
-<!--
-
- <ul>
-    <li>HTML</li>
-    <li>CSS</li>
-    <li>JavaScript</li>
-    <li>Bootstrap</li><br>
-    <li>PHP</li>
-    <li>MySQL</li>
-    <li>PDO (PHP Data Objects)</li>
-    <li>GitHub</li><br>
-    <li>Laravel</li>
-    <li>RESTful API</li>
-    <li>GraphQL API</li>
-    <li>Testing with PHPUnit</li><br>
-    <li>Testing with best frameworks (a little)</li>
-    <li>Object-Oriented Programming (OOP)</li>
-    <li>Algorithms</li>
-    <li>Design Patterns</li><br>
-    <li>SOLID Principles</li>
-  </ul>
-
-
-<img src="html.jfif" alt="HTML" height="50">
-   <img src="css.jfif" alt="CSS" height="50">
-   <img src="js.png" alt="JavaScript" height="50"><br>
-   <img src="bootstrap.png" alt="JavaScript" height="30">
-   <img src="php.jfif" alt="JavaScript" height="30">
-   <img src="mysql.png" alt="JavaScript" height="30"><br>
-   <img src="git.png" alt="JavaScript" height="50">
-   <img src="laravel.png" alt="JavaScript" height="50">
-   <img src="rest.png" alt="JavaScript" height="50"><br><br>
-   <img src="graph.png" alt="JavaScript" height="50">
-   <img src="unit.png" alt="JavaScript" height="30"> -->
+   <ul>
+      <li>HTML</li>
+      <li>CSS</li>
+      <li>JavaScript</li>
+      <li>Bootstrap</li><br>
+      <li>PHP</li>
+      <li>MySQL</li>
+      <li>PDO (PHP Data Objects)</li>
+      <li>GitHub</li><br>
+      <li>Laravel</li>
+      <li>RESTful API</li>
+      <li>GraphQL API</li>
+      <li>Testing with PHPUnit</li><br>
+      <li>Testing with best frameworks (a little)</li>
+      <li>Object-Oriented Programming (OOP)</li>
+      <li>Algorithms</li>
+      <li>Design Patterns</li><br>
+      <li>SOLID Principles</li>
+    </ul>
 </div>
 
 
