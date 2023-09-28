@@ -27,35 +27,21 @@ I firmly believe in making the most of my time through organization and creativi
   <div style="display: flex; flex-wrap: wrap; justify-content: center;">
     <div style="text-align: center; margin: 10px;">
       <img src="html.jfif" alt="HTML" height="50">
-    </div>
-    <div style="text-align: center; margin: 10px;">
       <img src="css.jfif" alt="CSS" height="50">
-    </div>
-    <div style="text-align: center; margin: 10px;">
-      <img src="js.png" alt="JavaScript" height="50"><br>
+      <img src="js.png" alt="JavaScript" height="50">
     </div>
     <div style="text-align: center; margin: 10px;">
       <img src="bootstrap.png" alt="JavaScript" height="50">
-    </div>
-    <div style="text-align: center; margin: 10px;">
       <img src="php.jfif" alt="JavaScript" height="50">
-    </div>
-    <div style="text-align: center; margin: 10px;">
-      <img src="mysql.png" alt="JavaScript" height="50"><br>
+      <img src="mysql.png" alt="JavaScript" height="50">
     </div>
     <div style="text-align: center; margin: 10px;">
       <img src="git.png" alt="JavaScript" height="50">
-    </div>
-    <div style="text-align: center; margin: 10px;">
       <img src="laravel.png" alt="JavaScript" height="50">
-    </div>
-    <div style="text-align: center; margin: 10px;">
       <img src="rest.png" alt="JavaScript" height="50"><br>
     </div>
     <div style="text-align: center; margin: 10px;">
       <img src="graph.png" alt="JavaScript" height="50">
-    </div>
-    <div style="text-align: center; margin: 10px;">
       <img src="unit.png" alt="JavaScript" height="50">
     </div>
   </div>
