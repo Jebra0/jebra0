@@ -21,7 +21,7 @@ I firmly believe in making the most of my time through organization and creativi
 <div>
 ---
 
-<div align="center">
+<div >
   <p>Skills:</p>
 
   <div style="display: flex; flex-wrap: wrap; justify-content: center;">
