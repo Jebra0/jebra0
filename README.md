@@ -14,7 +14,7 @@ My skill set encompasses a wide range of tools, including HTML, CSS, JavaScript,
 I firmly believe in making the most of my time through organization and creativity, traits that fuel my enthusiasm for coding and continuous improvement.</p>
 </div>
 
-<div align="center">
+<div>
  <p>My Skills </p>
 
    <ul>
