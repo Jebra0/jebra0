@@ -2,12 +2,10 @@
 
 <div align="center">
   <i>Follow me around the web:</i><br>
-
 <a href="https://www.linkedin.com/in/mohammed-jabrallah-261749250"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-
 </div>
 
----
+
 
 <div align="center">
   <p>About Me:</p>
@@ -16,14 +14,8 @@ My skill set encompasses a wide range of tools, including HTML, CSS, JavaScript,
 I firmly believe in making the most of my time through organization and creativity, traits that fuel my enthusiasm for coding and continuous improvement.</p>
 </div>
 
----
-
-<div>
----
-
 <div >
-  <p>Skills:</p>
-
+ <p>My Skills </p>
   <div style="display: flex; flex-wrap: wrap; justify-content: center;">
     <div style="display: flex; flex-wrap: wrap; justify-content: center;">
       <div style="text-align: center; margin: 10px;">
@@ -69,31 +61,4 @@ I firmly believe in making the most of my time through organization and creativi
   </div>
 </div>
 
-
-<!--<div align="center">
-  <p>Skills:</p>
-
-  <div style="display: flex; flex-wrap: wrap; justify-content: center;">
-    <div style="text-align: center; margin: 10px;">
-      <img src="html.jfif" alt="HTML" height="50">
-      <img src="css.jfif" alt="CSS" height="50">
-      <img src="js.png" alt="JavaScript" height="50">
-    </div>
-    <div style="text-align: center; margin: 10px;">
-      <img src="bootstrap.png" alt="JavaScript" height="50">
-      <img src="php.jfif" alt="JavaScript" height="50">
-      <img src="mysql.png" alt="JavaScript" height="50">
-    </div>
-    <div style="text-align: center; margin: 10px;">
-      <img src="git.png" alt="JavaScript" height="50">
-      <img src="laravel.png" alt="JavaScript" height="50">
-      <img src="rest.png" alt="JavaScript" height="50"><br>
-    </div>
-    <div style="text-align: center; margin: 10px;">
-      <img src="graph.png" alt="JavaScript" height="50">
-      <img src="unit.png" alt="JavaScript" height="50">
-    </div>
-  </div>
-</div>
--->
 
