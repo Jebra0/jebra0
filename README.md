@@ -17,7 +17,30 @@ I firmly believe in making the most of my time through organization and creativi
 <div>
  <p>My Skills </p>
 
-   <ul>
+  <div style="display: flex; flex-wrap: wrap; justify-content: center;">
+    <div style="text-align: center; margin: 10px;">
+      <h5>HTML</h5>
+      <h5>CSS</h5>
+      <h5>JavaScript</h5>
+      <h5>Bootstrap</h5>
+    </div>
+    <div style="text-align: center; margin: 10px;">
+      <h5>HTML</h5>
+      <h5>CSS</h5>
+      <h5>JavaScript</h5>
+      <h5>Bootstrap</h5>
+    </div>
+    <div style="text-align: center; margin: 10px;">
+      <h5>HTML</h5>
+      <h5>CSS</h5>
+      <h5>JavaScript</h5>
+      <h5>Bootstrap</h5>
+    </div>
+  </div>
+  
+<!--
+
+ <ul>
     <li>HTML</li>
     <li>CSS</li>
     <li>JavaScript</li>
@@ -36,8 +59,9 @@ I firmly believe in making the most of my time through organization and creativi
     <li>Design Patterns</li><br>
     <li>SOLID Principles</li>
   </ul>
-  
-<!--    <img src="html.jfif" alt="HTML" height="50">
+
+
+<img src="html.jfif" alt="HTML" height="50">
    <img src="css.jfif" alt="CSS" height="50">
    <img src="js.png" alt="JavaScript" height="50"><br>
    <img src="bootstrap.png" alt="JavaScript" height="30">
