@@ -24,10 +24,10 @@ I firmly believe in making the most of my time through organization and creativi
 <div >
   <p>Skills:</p>
   <ul>
-    <li><img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fimages.vexels.com%2Fmedia%2Fusers%2F3%2F166383%2Fisolated%2Flists%2F6024bc5746d7436c727825dc4fc23c22-html-programming-language-icon.png&tbnid=kV6aaKPo6vBDLM&vet=12ahUKEwiH9srXz82BAxUDpycCHbC0BiEQMygAegQIARBP..i&imgrefurl=https%3A%2F%2Fwww.vexels.com%2Fpng-svg%2Fpreview%2F166383%2Fhtml-programming-language-icon&docid=RkroU44kTxhuJM&w=256&h=256&q=HTML%20image%20png&hl=ar&ved=2ahUKEwiH9srXz82BAxUDpycCHbC0BiEQMygAegQIARBP" alt="HTML" height="30"> </li>
-    <li><img src="css-icon.png" alt="CSS" height="30"> CSS</li>
-    <li><img src="js-icon.png" alt="JavaScript" height="30"> JavaScript</li>
-    <li><img src="bootstrap-icon.png" alt="Bootstrap" height="30"> Bootstrap</li>
+    <li><img src="html.jfif" alt="HTML" height="30"> </li>
+    <li><img src="css.jfif" alt="CSS" height="30"> </li>
+    <li><img src="js.png" alt="JavaScript" height="30"> </li>
+    <li><img src="bootstrap.png" alt="Bootstrap" height="30"> </li>
     <li><img src="php-icon.png" alt="PHP" height="30"> PHP</li>
     <li><img src="mysql-icon.png" alt="MySQL" height="30"> MySQL</li>
     <li><img src="pdo-icon.png" alt="PDO (PHP Data Objects)" height="30"> PDO (PHP Data Objects)</li>
