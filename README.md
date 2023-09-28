@@ -21,26 +21,44 @@ I firmly believe in making the most of my time through organization and creativi
 <div>
 ---
 
-<div >
+<div align="center">
   <p>Skills:</p>
-  <ul>
-    <li><img src="html.jfif" alt="HTML" height="30"> </li>
-    <li><img src="css.jfif" alt="CSS" height="30"> </li>
-    <li><img src="js.png" alt="JavaScript" height="30"> </li>
-    <li><img src="bootstrap.png" alt="Bootstrap" height="30"> </li>
-    <li><img src="php-icon.png" alt="PHP" height="30"> PHP</li>
-    <li><img src="mysql-icon.png" alt="MySQL" height="30"> MySQL</li>
-    <li><img src="pdo-icon.png" alt="PDO (PHP Data Objects)" height="30"> PDO (PHP Data Objects)</li>
-    <li><img src="github-icon.png" alt="GitHub" height="30"> GitHub</li>
-    <li><img src="laravel-icon.png" alt="Laravel" height="30"> Laravel</li>
-    <li><img src="rest-api-icon.png" alt="RESTful API" height="30"> RESTful API</li>
-    <li><img src="graphql-icon.png" alt="GraphQL API" height="30"> GraphQL API</li>
-    <li><img src="phpunit-icon.png" alt="Testing with PHPUnit" height="30"> Testing with PHPUnit</li>
-    <li><img src="framework-icon.png" alt="Testing with best frameworks (a little)" height="30"> Testing with best frameworks (a little)</li>
-    <li><img src="oop-icon.png" alt="Object-Oriented Programming (OOP)" height="30"> Object-Oriented Programming (OOP)</li>
-    <li><img src="algorithms-icon.png" alt="Algorithms" height="30"> Algorithms</li>
-    <li><img src="design-patterns-icon.png" alt="Design Patterns" height="30"> Design Patterns</li>
-    <li><img src="solid-icon.png" alt="SOLID Principles" height="30"> SOLID Principles</li>
-  </ul>
+
+  <div style="display: flex; flex-wrap: wrap; justify-content: center;">
+    <div style="text-align: center; margin: 10px;">
+      <img src="html.jfif" alt="HTML" height="50">
+    </div>
+    <div style="text-align: center; margin: 10px;">
+      <img src="css.jfif" alt="CSS" height="50">
+    </div>
+    <div style="text-align: center; margin: 10px;">
+      <img src="js.png" alt="JavaScript" height="50">
+    </div>
+    <div style="text-align: center; margin: 10px;">
+      <img src="bootstrap.png" alt="JavaScript" height="50">
+    </div>
+    <div style="text-align: center; margin: 10px;">
+      <img src="php.jfif" alt="JavaScript" height="50">
+    </div>
+    <div style="text-align: center; margin: 10px;">
+      <img src="mysql.png" alt="JavaScript" height="50">
+    </div>
+    <div style="text-align: center; margin: 10px;">
+      <img src="git.png" alt="JavaScript" height="50">
+    </div>
+    <div style="text-align: center; margin: 10px;">
+      <img src="laravel.png" alt="JavaScript" height="50">
+    </div>
+    <div style="text-align: center; margin: 10px;">
+      <img src="rest.png" alt="JavaScript" height="50">
+    </div>
+    <div style="text-align: center; margin: 10px;">
+      <img src="graph.png" alt="JavaScript" height="50">
+    </div>
+    <div style="text-align: center; margin: 10px;">
+      <img src="unit.png" alt="JavaScript" height="50">
+    </div>
+  </div>
 </div>
+
 
