@@ -3,7 +3,8 @@
 <div align="center">
   <i>Follow me around the web:</i><br>
 
-<a href="www.linkedin.com/in/mohammed-jabrallah-261749250" target=""><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.linkedin.com/in/mohammed-jabrallah-261749250"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+
 </div>
 
 ---
