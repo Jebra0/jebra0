@@ -16,15 +16,15 @@ I firmly believe in making the most of my time through organization and creativi
 
 <div align="center">
  <p>My Skills </p>
- <img src="html.jfif" alt="HTML" height="50">
+   <img src="html.jfif" alt="HTML" height="50">
    <img src="css.jfif" alt="CSS" height="50">
-  <img src="js.png" alt="JavaScript" height="50">
-  <img src="bootstrap.png" alt="JavaScript" height="50">
-  <img src="php.jfif" alt="JavaScript" height="50">
-  <img src="mysql.png" alt="JavaScript" height="50">
-  <img src="git.png" alt="JavaScript" height="50">
+   <img src="js.png" alt="JavaScript" height="50"><br>
+   <img src="bootstrap.png" alt="JavaScript" height="50">
+   <img src="php.jfif" alt="JavaScript" height="50">
+   <img src="mysql.png" alt="JavaScript" height="50"><br>
+   <img src="git.png" alt="JavaScript" height="50">
    <img src="laravel.png" alt="JavaScript" height="50">
-   <img src="rest.png" alt="JavaScript" height="50"><br>
+   <img src="rest.png" alt="JavaScript" height="50"><br><br>
    <img src="graph.png" alt="JavaScript" height="50">
    <img src="unit.png" alt="JavaScript" height="50">
 </div>
