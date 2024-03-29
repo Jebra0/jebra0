@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Mohammed
+# Hi there 👋, It's Mohammed
 
 <div align="center">
   <i>Follow me around the web:</i><br>
