@@ -9,9 +9,8 @@
 
 <div align="center">
   <p>About Me:</p>
-  <p>I'm a passionate backend developer currently pursuing my fourth year of studies at Luxor University. My journey in the world of programming has been marked by hands-on experience and a drive for continuous learning.
-My skill set encompasses a wide range of tools, including HTML, CSS, JavaScript, Bootstrap, PHP, MySQL, and Laravel. I'm well-versed in version control with GitHub, proficient in creating RESTful APIs, and I have experience with testing, both with PHPUnit and other testing frameworks. Embracing object-oriented programming (OOP) principles, I'm always up for a challenge when it comes to problem-solving.
-I firmly believe in making the most of my time through organization and creativity, traits that fuel my enthusiasm for coding and continuous improvement.</p>
+  <p>Junior Web Developer with 1 year of hands-on experience, specializing in Laravel and Vue.js.
+Skilled in building RESTful and GraphQL APIs, with a strong background in backend development and API design</p>
 </div>
 
 <div>
