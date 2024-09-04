@@ -19,17 +19,16 @@ Skilled in building RESTful and GraphQL APIs, with a strong background in backen
       <li>HTML</li>
       <li>CSS</li>
       <li>JavaScript</li>
+      <li>Vue js</li>
       <li>Bootstrap</li><br>
       <li>PHP</li>
       <li>MySQL</li>
-      <li>PDO (PHP Data Objects)</li>
-      <li>GitHub</li><br>
+      <li>Git</li><br>
       <li>Laravel</li>
       <li>RESTful API</li>
       <li>GraphQL API</li>
-      <li>Testing with PHPUnit</li><br>
-      <li>Testing with best frameworks (a little)</li>
-      <li>Object-Oriented Programming (OOP)</li>
+      <li>Testing</li><br>
+      <li>Object-Oriented Programming</li>
       <li>Algorithms</li>
       <li>Design Patterns</li><br>
       <li>SOLID Principles</li>
