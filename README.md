@@ -18,7 +18,7 @@ Skilled in building RESTful and GraphQL APIs, with a strong background in backen
   <img align="left" alt="PHP" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" />
   <img align="left" alt="Laravel" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" />
 <img align="left" alt="MySQL" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/en/d/dd/MySQL_logo.svg" />
-<img align="left" alt="RESTful API" width="30px" style="padding-right:10px;" src="[https://upload.wikimedia.org/wikipedia/commons/d/d2/Rest_api_icon.svg](https://bookstack.cscms.me/uploads/images/gallery/2024-01/badges-rest-api-express-stage1.png)" />
+<img align="left" alt="RESTful API" width="30px" style="padding-right:10px;" src="https://bookstack.cscms.me/uploads/images/gallery/2024-01/badges-rest-api-express-stage1.png" />
   <img align="left" alt="GraphQl" width="30px" style="padding-right:10px;" src="https://graphql.org/_next/static/media/logo-wordmark.4eec1155.svg" />
 <img 
   align="left" 
