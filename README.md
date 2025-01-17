@@ -2,8 +2,7 @@
 
 Junior Web Developer with expertise in Laravel and Vue.js, skilled in designing and developing RESTful and GraphQL APIs. Strong foundation in creating scalable, user-friendly web applications, with a focus on performance optimization and clean, maintainable code. Holds a Bachelor's degree in Computer Science from Luxor University. Eager to contribute to innovative projects and continuously improve technical skills.
 
-### Follow me
-<a href="https://www.linkedin.com/in/jebra0"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+### Follow me @ <a href="https://www.linkedin.com/in/jebra0"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
  ### 🧰 Languages and Tools
 <div>
