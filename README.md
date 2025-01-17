@@ -13,8 +13,8 @@
 Skilled in building RESTful and GraphQL APIs, with a strong background in backend development and API design</p>
 </div>
 
-<div>
  ### 🧰 Languages and Tools
+<div>
   <img align="left" alt="PHP" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" />
   <img align="left" alt="Laravel" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" />
 <img align="left" alt="MySQL" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/en/d/dd/MySQL_logo.svg" />
