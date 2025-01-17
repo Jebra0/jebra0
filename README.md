@@ -14,25 +14,37 @@ Skilled in building RESTful and GraphQL APIs, with a strong background in backen
 </div>
 
 <div>
- <p>My Skills </p>
-   <ul>
-      <li>HTML</li>
-      <li>CSS</li>
-      <li>JavaScript</li>
-      <li>Vue js</li>
-      <li>Bootstrap</li><br>
-      <li>PHP</li>
-      <li>MySQL</li>
-      <li>Git</li><br>
-      <li>Laravel</li>
-      <li>RESTful API</li>
-      <li>GraphQL API</li>
-      <li>Testing</li><br>
-      <li>Object-Oriented Programming</li>
-      <li>Algorithms</li>
-      <li>Design Patterns</li><br>
-      <li>SOLID Principles</li>
-    </ul>
+ ### 🧰 Languages and Tools
+  <img align="left" alt="PHP" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" />
+  <img align="left" alt="Laravel" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" />
+<img align="left" alt="MySQL" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/en/d/dd/MySQL_logo.svg" />
+<img align="left" alt="RESTful API" width="30px" style="padding-right:10px;" src="[https://upload.wikimedia.org/wikipedia/commons/d/d2/Rest_api_icon.svg](https://bookstack.cscms.me/uploads/images/gallery/2024-01/badges-rest-api-express-stage1.png)" />
+  <img align="left" alt="GraphQl" width="30px" style="padding-right:10px;" src="https://graphql.org/_next/static/media/logo-wordmark.4eec1155.svg" />
+<img 
+  align="left" 
+  alt="Vue.js" 
+  width="30px" 
+  style="padding-right:10px;" 
+  src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg" 
+/>
+<img 
+  align="left" 
+  alt="Bootstrap" 
+  width="30px" 
+  style="padding-right:10px;" 
+  src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" 
+/>
+
+  
+<img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
+  
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 </div>
 
 
